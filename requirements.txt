@@ -1,4 +1,6 @@
 ollama
+openai
+audio-recorder-streamlit
 chromadb
 streamlit 
 pdfplumber 
